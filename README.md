@@ -20,6 +20,3 @@
 <a href="https://github.com/NaimuL295"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NaimuL295&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=true&hide_title=true" alt="Naimul's stats" /></a> | <a href="https://github.com/NaimuL295"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaimuL295&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=6" /></a> 
 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaimuL295&theme=vision-friendly-dark&hide_border=true" />
-</p>
