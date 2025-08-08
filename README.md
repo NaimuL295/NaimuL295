@@ -24,7 +24,10 @@ I'm a passionate **Frontend Developer** from **Bangladesh** specializing in mode
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
    &nbsp;
-  <img alt="java servlet" src="https://img.shields.io/badge/Java_Servlet-007396?style=flat-square&logo=java&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
+     &nbsp;
+<img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
  <img alt="firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
  &nbsp;
  <img alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
@@ -39,5 +42,4 @@ I'm a passionate **Frontend Developer** from **Bangladesh** specializing in mode
     alt="Naimul's stats" 
    />
 </a>   &nbsp;  <a href="https://github.com/NaimuL295"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaimuL295&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=6" /></a> 
-
 
