@@ -1,5 +1,13 @@
 
 
+<h1 align="center">
+  Hi, I'm Naimul 👋
+</h1>
+
+<h3 align="center">
+  Frontend Developer | React & Node.js Enthusiast
+</h3>
+
 ## 👨‍💻 About Me
 I'm a passionate **Frontend Developer** from **Bangladesh** specializing in modern web technologies. Currently exploring **Next.js** and building a tourism website to showcase beautiful destinations through code.
 
@@ -28,7 +36,4 @@ I'm a passionate **Frontend Developer** from **Bangladesh** specializing in mode
 
 🌟 Featured Projects
 <div align="center"> <a href="https://github.com/NaimuL295/your-tourism-project"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaimuL295&repo=your-tourism-project&theme=dark&title_color=58A6FF" /> </a> <a href="https://github.com/NaimuL295/another-project"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaimuL295&repo=another-project&theme=dark&title_color=58A6FF" /> </a> </div> 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Naimul+%F0%9F%91%8B;Frontend+Developer;React+%26+Node.js+Enthusiast" alt="Naimul's Header" />
-</h1>
 
