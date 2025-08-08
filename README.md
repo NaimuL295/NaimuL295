@@ -38,10 +38,12 @@ I'm a passionate **Frontend Developer** from **Bangladesh** specializing in mode
 
 <h3>📊 GitHub Stats</h3>
 <a href="https://github.com/NaimuL295">
-<img 
-  align="center" 
-  src="https://github-readme-stats.vercel.app/api?username=NaimuL295&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=true&hide_title=true&scale=1" 
-  alt="Naimul's stats" 
-/>
-</a>   &nbsp;  <a href="https://github.com/NaimuL295"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaimuL295&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=6" /></a> 
+  <img 
+    align="center" 
+    src="https://github-readme-stats.vercel.app/api?username=NaimuL295&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=true&hide_title=true" 
+    alt="Naimul's GitHub stats" 
+    style="font-size: small;"
+  />
+</a>
+   &nbsp;  <a href="https://github.com/NaimuL295"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaimuL295&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=6" /></a> 
 
