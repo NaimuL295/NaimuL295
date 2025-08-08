@@ -29,7 +29,8 @@ I'm a passionate **Frontend Developer** from **Bangladesh** specializing in mode
  <img alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
  <img alt="nextjs" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
 </p>
-<h1>📊 GitHub Stats</h1>
+
+<h3>📊 GitHub Stats</h3>
 <a href="https://github.com/NaimuL295">
   <img 
     align="center" 
