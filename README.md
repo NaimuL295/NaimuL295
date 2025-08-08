@@ -34,6 +34,3 @@ I'm a passionate **Frontend Developer** from **Bangladesh** specializing in mode
 <a href="https://github.com/NaimuL295"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NaimuL295&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=true&hide_title=true" alt="Naimul's stats" /></a> | <a href="https://github.com/NaimuL295"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaimuL295&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=6" /></a> 
 
 
-🌟 Featured Projects
-<div align="center"> <a href="https://github.com/NaimuL295/your-tourism-project"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaimuL295&repo=your-tourism-project&theme=dark&title_color=58A6FF" /> </a> <a href="https://github.com/NaimuL295/another-project"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaimuL295&repo=another-project&theme=dark&title_color=58A6FF" /> </a> </div> 
-
