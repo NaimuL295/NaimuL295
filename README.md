@@ -4,13 +4,7 @@
 I'm a passionate **Frontend Developer** from **Bangladesh** specializing in modern web technologies. Currently exploring **Next.js** and building a tourism website to showcase beautiful destinations through code.
 
 
-const naimul = {
-  focus: "Frontend Development",
-  stack: ["React", "Next.js", "Node.js"],
-  tools: ["Tailwind", "DaisyUI", "Firebase"],
-  learning: ["Advanced React Patterns", "Server Components"],
-  hobbies: ["Coding Challenges", "Open Source"]
-};
+
 🛠 Tech Stack
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
