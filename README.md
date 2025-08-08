@@ -39,6 +39,6 @@ I'm a passionate **Frontend Developer** from **Bangladesh** specializing in mode
     alt="Naimul's stats" 
     width="350" 
   />
-</a>| <a href="https://github.com/NaimuL295"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaimuL295&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=6" /></a> 
+</a>   &nbsp;  <a href="https://github.com/NaimuL295"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaimuL295&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=6" /></a> 
 
 
