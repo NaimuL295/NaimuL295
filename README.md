@@ -42,9 +42,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=F7F7F7&center=true&vCenter=true&width=600&lines=⚡+Creative+Developer;🚀+Full+Stack+Explorer;🌌+Always+Learning+New+Tech" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:333399,100:ff00cc&height=120&section=footer" />
-</p>
+
 
 
 <h3 align="center">
