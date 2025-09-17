@@ -17,6 +17,16 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0000,25:FF7F00,50:FFFF00,75:00FF00,100:0000FF&height=120&section=header&text=🌈+Creative+Developer+🌈&fontSize=40&fontColor=fff" />
 </p>
 
+2
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:000428,100:004e92&height=200&section=header&text=🚀+Coding+the+Future+🚀&fontSize=55&fontColor=FFFFFF&animation=twinkling" />
+</p>
+
+
+
+
 
 <h3 align="center">
   Frontend Developer | React & Node.js Enthusiast
