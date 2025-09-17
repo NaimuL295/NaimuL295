@@ -1,17 +1,7 @@
 
-
-
-
-
 <p align="center"> 
-
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:43cea2,100:185a9d&height=150&section=footer&text= <h1 align="center">
-  Hi, I'm Naimul 👋
-</h1>      ✨&fontSize=24&fontColor=FFFFFF&fontAlignY=30&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:43cea2,100:185a9d&height=150&section=footer&text=Hi%2C+I'm+Naimul+👋+✨&fontSize=24&fontColor=FFFFFF&fontAlignY=30&animation=fadeIn" />
 </p>
-
-
 
 <h3 align="center">
   Frontend Developer | React & Node.js Enthusiast
