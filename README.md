@@ -17,19 +17,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=120&section=footer" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF007F,100:00D4FF&height=220&section=header&text=⚡+Creative+Developer+⚡&fontSize=56&fontColor=FFFFFF&fontAlignY=40&animation=blink" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=🚀+Full+Stack+Explorer+🚀&fontSize=48&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7E5F,100:FEB47B&height=80&section=header&text=Front-end+%7C+React+%7C+Tailwind&fontSize=20&fontColor=000000&fontAlignY=35&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:34e89e,100:0f3443&height=80&section=header&text=Back-end+%7C+Node.js+%7C+MongoDB&fontSize=20&fontColor=FFFFFF&fontAlignY=35&animation=zoomIn" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=100&section=footer&text=Thanks+for+visiting+%F0%9F%8C%90&fontSize=20&fontColor=FFFFFF&fontAlignY=30&animation=fadeIn" />
-</p>
 
 1
 <h3 align="center">
