@@ -6,9 +6,6 @@
 
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF00FF,100:00FFFF&height=200&section=header&text=⚡+Creative+Developer+⚡&fontSize=50&fontColor=FFFFFF&fontAlignY=40&animation=blink" />
-</p>
 
 
 
