@@ -76,13 +76,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:333399,100:ff00cc&height=120&section=footer" />
 </p>
-12<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff6a00,50:ff00cc,100:333399&height=200&section=header&text=🌈+Unique+Gradient+Style&fontSize=42&fontColor=FFFFFF&animation=blink" />
-</p>
-13
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:43cea2,100:185a9d&height=200&section=header&text=🌌+Floating+Text&fontSize=42&fontColor=43cea2&animation=fadeIn" />
-</p>
 
 
 <h3 align="center">
