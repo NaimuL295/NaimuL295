@@ -7,10 +7,7 @@
 
 
 <p align="center">
-  <img src="https://img.icons8.com/color/96/000000/javascript--v1.png" width="60" height="60"/>
-  <img src="https://img.icons8.com/color/96/000000/react-native.png" width="60" height="60"/>
-  <img src="https://img.icons8.com/color/96/000000/nodejs.png" width="60" height="60"/>
-  <img src="https://img.icons8.com/color/96/000000/mongodb.png" width="60" height="60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome+to+My+Profile!&fontSize=30&fontColor=fff" />
 </p>
 
 
