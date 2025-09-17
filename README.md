@@ -8,9 +8,7 @@
 </p>
 <p align="center"> 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=F7F7F7&center=true&vCenter=true&width=600&lines=⚡+Creative+Developer;🚀+Full+Stack+Explorer;🌌+Always+Learning+New+Tech" />
-</p>
+
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:43cea2,100:185a9d&height=170&section=footer&text=fdfdfdf&fontSize=20&fontColor=FFFFFF&fontAlignY=30&animation=fadeIn" />
 </p>
