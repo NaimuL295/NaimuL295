@@ -26,7 +26,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FF5733,100:FFC300&height=150&section=header&text=Full+Stack+Developer&fontSize=45&fontColor=fff&animation=blink" />
 </p>
 
-
+4
 
 
 <p align="center">
@@ -34,7 +34,9 @@
 </p>
 
 
-
+5<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&section=header&text=Welcome+to+My+GitHub!&fontSize=50&fontColor=fff&animation=fadeIn" />
+</p>
 
 
 <h3 align="center">
