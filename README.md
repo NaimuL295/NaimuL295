@@ -3,9 +3,7 @@
 <h1 align="center">
   Hi, I'm Naimul 👋
 </h1>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=mountain&color=0:ff7e5f,100:feb47b&height=200&section=header&text=🚀+Code+Adventurer&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=zoomIn" />
-</p>
+
 <p align="center"> 
 
 
