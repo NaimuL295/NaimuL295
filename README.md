@@ -6,9 +6,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=mountain&color=0:ff7e5f,100:feb47b&height=200&section=header&text=🚀+Code+Adventurer&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=zoomIn" />
 </p>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:43cea2,100:185a9d&height=120&section=footer&text=⚡+Keep+Pushing+Boundaries+⚡&fontSize=20&fontColor=FFFFFF&fontAlignY=30&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:43cea2,100:185a9d&height=200&section=footer&text=⚡+Keep+Pushing+Boundaries+⚡&fontSize=20&fontColor=FFFFFF&fontAlignY=30&animation=fadeIn" />
 </p>
 
 
