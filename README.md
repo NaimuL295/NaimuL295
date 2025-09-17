@@ -4,6 +4,17 @@
   Hi, I'm Naimul 👋
 </h1>
 
+
+
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_username&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" />
+</p>
+
+
+
+
+
 <h3 align="center">
   Frontend Developer | React & Node.js Enthusiast
 </h3>
