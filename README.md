@@ -6,17 +6,18 @@
 
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome+to+My+Profile!&fontSize=30&fontColor=fff" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome+to+My+Profile!&fontSize=30&fontColor=fff" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:00c6ff&height=220&section=header&text=🌌+Abul+Hasin+Sandeep+🌌&fontSize=55&fontColor=FFFFFF&fontAlignY=40&animation=twinkling" />
 </p>
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:43cea2,100:185a9d&height=180&section=header&text=🚀+Full+Stack+Explorer+🚀&fontSize=45&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=120&section=footer" />
+</p>
+
 
 
 <h3 align="center">
