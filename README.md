@@ -6,11 +6,12 @@
 
 
 
-
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_username&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" />
+  <img src="https://img.icons8.com/color/96/000000/javascript--v1.png" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/96/000000/react-native.png" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/96/000000/nodejs.png" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/96/000000/mongodb.png" width="60" height="60"/>
 </p>
-
 
 
 
