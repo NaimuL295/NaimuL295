@@ -7,26 +7,6 @@
 
 
 
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:43cea2,100:185a9d&height=180&section=header&text=🚀+Full+Stack+Explorer+🚀&fontSize=45&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=120&section=footer" />
-</p>
-
-
-
-
-
-
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:43cea2,100:185a9d&height=120&section=footer&text=⚡+Keep+Pushing+Boundaries+⚡&fontSize=20&fontColor=FFFFFF&fontAlignY=30&animation=fadeIn" />
-</p>
-
-
-
 10<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=180&section=header&text=🌊+Surfing+the+Code+Waves&fontSize=42&fontColor=FFFFFF&fontAlignY=36&animation=zoomIn" />
 </p>
