@@ -30,10 +30,7 @@
 10<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=180&section=header&text=🌊+Surfing+the+Code+Waves&fontSize=42&fontColor=FFFFFF&fontAlignY=36&animation=zoomIn" />
 </p>
-11
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:333399&height=180&section=header" />
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=F7F7F7&center=true&vCenter=true&width=600&lines=⚡+Creative+Developer;🚀+Full+Stack+Explorer;🌌+Always+Learning+New+Tech" />
