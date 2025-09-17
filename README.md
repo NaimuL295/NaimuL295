@@ -14,7 +14,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome+to+My+Profile!&fontSize=30&fontColor=fff" />
 </p>
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:00c6ff&height=220&section=header&text=🌌+Abul+Hasin+Sandeep+🌌&fontSize=55&fontColor=FFFFFF&fontAlignY=40&animation=twinkling" />
+</p>
 
 
 <h3 align="center">
