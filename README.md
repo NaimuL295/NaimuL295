@@ -35,7 +35,13 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:fc466b,100:3f5efb&height=120&section=header&text=🎨+Creative+Mindset&fontSize=32&fontColor=FFFFFF&fontAlignY=38&animation=zoomIn" />
 </p>
 
-
+4 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=mountain&color=0:11998e,100:38ef7d&height=200&section=header&text=⛰️+Scaling+New+Tech+⛰️&fontSize=42&fontColor=FFFFFF&fontAlignY=35&animation=blink" />
+</p>
+5<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00c6ff,100:0072ff&height=200&section=header&text=🌊+Code+Flow+Architect+🌊&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" />
+</p>
 
 
 
