@@ -12,6 +12,9 @@
 </p>
 
 
+<p align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:43cea2,100:185a9d&height=200&section=header&text=⚡+Creative+Developer+⚡&fontSize=42&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn" />
+</p>
 
 
 
