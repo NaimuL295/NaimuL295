@@ -19,6 +19,15 @@
 
 2
 
+3
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FF5733,100:FFC300&height=150&section=header&text=Full+Stack+Developer&fontSize=45&fontColor=fff&animation=blink" />
+</p>
+
+
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:000428,100:004e92&height=200&section=header&text=🚀+Coding+the+Future+🚀&fontSize=55&fontColor=FFFFFF&animation=twinkling" />
