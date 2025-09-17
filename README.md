@@ -16,10 +16,7 @@
 
 
 
-4 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=mountain&color=0:11998e,100:38ef7d&height=200&section=header&text=⛰️+Scaling+New+Tech+⛰️&fontSize=42&fontColor=FFFFFF&fontAlignY=35&animation=blink" />
-</p>
+
 
 
 6
