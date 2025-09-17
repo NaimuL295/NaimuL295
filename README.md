@@ -20,9 +20,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=mountain&color=0:11998e,100:38ef7d&height=200&section=header&text=⛰️+Scaling+New+Tech+⛰️&fontSize=42&fontColor=FFFFFF&fontAlignY=35&animation=blink" />
 </p>
-5<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00c6ff,100:0072ff&height=200&section=header&text=🌊+Code+Flow+Architect+🌊&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" />
-</p>
+
 
 6
 <p align="center">
@@ -32,16 +30,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:43cea2,100:185a9d&height=120&section=footer&text=⚡+Keep+Pushing+Boundaries+⚡&fontSize=20&fontColor=FFFFFF&fontAlignY=30&animation=fadeIn" />
 </p>
-7
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=110&section=footer&text=🌌+End+of+the+README+Journey+🌌&fontSize=20&fontColor=FFFFFF&fontAlignY=30&animation=fadeIn" />
-</p>
-8<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00c6ff,100:0072ff&height=160&section=header&text=🧊+Cool+Full+Stack+Explorer&fontSize=38&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" />
-</p>
-9<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff512f,100:f09819&height=200&section=header&text=🌋+Burning+for+Innovation&fontSize=40&fontColor=FFFFFF&fontAlignY=36&animation=blink" />
-</p>
+
+
+
 10<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=180&section=header&text=🌊+Surfing+the+Code+Waves&fontSize=42&fontColor=FFFFFF&fontAlignY=36&animation=zoomIn" />
 </p>
