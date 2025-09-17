@@ -10,7 +10,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome+to+My+Profile!&fontSize=30&fontColor=fff" />
 </p>
 
+1
 
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0000,25:FF7F00,50:FFFF00,75:00FF00,100:0000FF&height=120&section=header&text=🌈+Creative+Developer+🌈&fontSize=40&fontColor=fff" />
+</p>
 
 
 <h3 align="center">
