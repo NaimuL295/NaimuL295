@@ -1,14 +1,14 @@
 
 
-<h1 align="center">
-  Hi, I'm Naimul 👋
-</h1>
+
 
 
 <p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=F7F7F7&center=true&vCenter=true&width=600&lines=⚡+Creative+Developer;🚀+Full+Stack+Explorer;🌌+Always+Learning+New+Tech" />
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:43cea2,100:185a9d&height=150&section=footer&text=✨+Thanks+for+Visiting!+✨&fontSize=24&fontColor=FFFFFF&fontAlignY=30&animation=fadeIn" />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:43cea2,100:185a9d&height=150&section=footer&text= <h1 align="center">
+  Hi, I'm Naimul 👋
+</h1>      ✨&fontSize=24&fontColor=FFFFFF&fontAlignY=30&animation=fadeIn" />
 </p>
 
 
