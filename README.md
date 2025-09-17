@@ -18,22 +18,6 @@
 </p>
 
 
-1
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:f7971e,100:ffd200&height=100&section=header&text=⚡+Energy+Driven+Coder+⚡&fontSize=28&fontColor=000000&fontAlignY=35&animation=fadeIn" />
-</p>
-
-
-2
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:654ea3,100:eaafc8&height=100&section=footer&text=Made+with+💜+and+☕&fontSize=20&fontColor=FFFFFF&fontAlignY=30&animation=fadeIn" />
-</p>
-
-
-3
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:fc466b,100:3f5efb&height=120&section=header&text=🎨+Creative+Mindset&fontSize=32&fontColor=FFFFFF&fontAlignY=38&animation=zoomIn" />
-</p>
 
 4 
 <p align="center">
