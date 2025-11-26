@@ -36,6 +36,18 @@ I'm a passionate **Frontend Developer** from **Bangladesh** specializing in mode
 </p>
 
  <div align="center"> <a href="https://github.com/NaimuL295"> <img src="https://github-readme-stats.vercel.app/api?username=NaimuL295&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" /> </a> <a href="https://github.com/NaimuL295"> <img src="https://streak-stats.demolab.com?user=NaimuL295&theme=dark&hide_border=true" alt="GitHub Streak" /> </a>
+
+
+   <div align="center">
+  
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=NaimuL295&theme=dark" alt="GitHub Streak" />
+  </a>
+
+</div>
+
+   
+   
    <!-- <a href="https://github.com/NaimuL295">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaimuL295&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=6" alt="Top Languages" />
   </a>  -->
