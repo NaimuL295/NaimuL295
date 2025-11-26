@@ -39,12 +39,11 @@ I'm a passionate **Frontend Developer** from **Bangladesh** specializing in mode
   </div> 
 
 <div align="center">
-
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=NaimuL295&theme=dark" alt="GitHub Streak" />
   </a>
-
 </div>
+
 
 
    
