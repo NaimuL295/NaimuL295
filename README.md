@@ -35,11 +35,6 @@ I'm a passionate **Frontend Developer** from **Bangladesh** specializing in mode
  <img alt="nextjs" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
 </p>
 
- <div align="center"> <a href="https://github.com/NaimuL295"> <img src="https://github-readme-stats.vercel.app/api?username=NaimuL295&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" /> </a> <a href="https://github.com/NaimuL295"> <img src="https://streak-stats.demolab.com?user=NaimuL295&theme=dark&hide_border=true" alt="GitHub Streak" /> </a>
-  </div> 
-
-
-
 
    
    
