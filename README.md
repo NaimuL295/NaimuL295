@@ -1,4 +1,4 @@
-ছে
+
 <p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:43cea2,100:185a9d&height=150&section=footer&text=Hi%2C+I'm+Naimul+👋+✨&fontSize=24&fontColor=FFFFFF&fontAlignY=30&animation=fadeIn" />
 </p>
@@ -38,7 +38,15 @@ I'm a passionate **Frontend Developer** from **Bangladesh** specializing in mode
 
    
    
-   <!-- <a href="https://github.com/NaimuL295">
+    <a href="https://github.com/NaimuL295">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaimuL295&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=6" alt="Top Languages" />
-  </a>  -->
+  </a> 
+
+
+
+
+
+
+
+
 
