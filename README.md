@@ -1,4 +1,4 @@
-
+ছে
 <p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:43cea2,100:185a9d&height=150&section=footer&text=Hi%2C+I'm+Naimul+👋+✨&fontSize=24&fontColor=FFFFFF&fontAlignY=30&animation=fadeIn" />
 </p>
@@ -38,11 +38,6 @@ I'm a passionate **Frontend Developer** from **Bangladesh** specializing in mode
  <div align="center"> <a href="https://github.com/NaimuL295"> <img src="https://github-readme-stats.vercel.app/api?username=NaimuL295&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" /> </a> <a href="https://github.com/NaimuL295"> <img src="https://streak-stats.demolab.com?user=NaimuL295&theme=dark&hide_border=true" alt="GitHub Streak" /> </a>
   </div> 
 
-<!-- <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=NaimuL295&theme=dark" alt="GitHub Streak" />
-  </a>
-</div> -->
 
 
 
