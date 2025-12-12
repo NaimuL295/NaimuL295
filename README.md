@@ -38,17 +38,6 @@ I'm a passionate **Frontend Developer** from **Bangladesh** specializing in mode
 
    
    
-<p align="center">
-  <a href="https://github.com/NaimuL295">
-    <img src="https://github-readme-stats.vercel.app/api?username=NaimuL295&theme=dark&show_icons=true&hide_border=true&count_private=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/NaimuL295">
-    <img src="https://streak-stats.demolab.com?user=NaimuL295&theme=dark&hide_border=true" />
-  </a>
-</p>
 
 
 
