@@ -13,8 +13,7 @@ I'm a passionate **Frontend Developer** from **Bangladesh** specializing in mode
 
 
 🛠 Tech Stack
-<p>
-
+<!-- <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   &nbsp;
@@ -31,7 +30,7 @@ I'm a passionate **Frontend Developer** from **Bangladesh** specializing in mode
  &nbsp;
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
  <img alt="nextjs" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-</p>
+</p> -->
 
 
    
