@@ -1,6 +1,7 @@
 
  <p align="center"> 
-<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/2ecd4ad5-0e70-4660-a181-9a192da61d46" />
+<img width="2125" height="200" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/dee76c64-91ae-44b6-a068-16705c415606" />
+
 </p> 
 <h3 align="center">
   Frontend Developer | React & Node.js Enthusiast
