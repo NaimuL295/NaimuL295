@@ -1,8 +1,7 @@
 
-<!-- <p align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:43cea2,100:185a9d&height=150&section=footer&text=Hi%2C+I'm+Naimul+👋+✨&fontSize=24&fontColor=FFFFFF&fontAlignY=30&animation=fadeIn" />
-</p> -->
-
+ <p align="center"> 
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/2ecd4ad5-0e70-4660-a181-9a192da61d46" />
+</p> 
 <h3 align="center">
   Frontend Developer | React & Node.js Enthusiast
 </h3>
@@ -10,7 +9,9 @@
 ## 👨‍💻 About Me
 I'm a passionate **Frontend Developer** from **Bangladesh** specializing in modern web technologies. Currently exploring **Next.js** and building a tourism website to showcase beautiful destinations through code.
 
-
+ <p align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:43cea2,100:185a9d&height=150&section=footer&text=Hi%2C+I'm+Naimul+👋+✨&fontSize=24&fontColor=FFFFFF&fontAlignY=30&animation=fadeIn" />
+</p> 
 
 🛠 Tech Stack
 <!-- <p>
